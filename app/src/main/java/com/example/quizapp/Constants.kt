@@ -2,8 +2,6 @@ package com.quizapp
 
 import com.example.quizapp.Question
 import com.example.quizapp.R
-import com.quizapp.R
-import com.quizapp.Question
 
 object Constants {
 

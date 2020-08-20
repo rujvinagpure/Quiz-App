@@ -8,7 +8,6 @@ import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.example.quizapp.Constants
 import com.example.quizapp.Question
 import com.example.quizapp.R
 import kotlinx.android.synthetic.main.activity_quiz_questions.*
